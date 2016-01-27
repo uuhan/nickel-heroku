@@ -1,4 +1,7 @@
-target
+target/*
+target/release/*
+!target/release/book-store
+
 *.swp
 *.swo
 assets/*
