@@ -1,0 +1,7 @@
+[package]
+name = "book-store"
+version = "0.1.0"
+authors = ["xuminhui <xuminhui189@gmail.com>"]
+
+[dependencies]
+nickel = "*"
