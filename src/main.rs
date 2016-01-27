@@ -8,5 +8,5 @@ fn main() {
     let mut server = Nickel::new();
 
     server.get("**", middleware!("Ready To Roll!"));
-    server.listen("127.0.0.1:3000");
+    server.listen("127.0.0.1:6767");
 }
